@@ -10,7 +10,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ross-ko&show_icons=true&locale=en" alt="ross-ko" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ross-ko&" alt="ross-ko" /></p>
 
 ###
 
