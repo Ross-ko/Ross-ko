@@ -32,14 +32,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/21erxjv54qrulprcsa3l2l5zq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21erxjv54qrulprcsa3l2l5zq&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img height="150" src="https://64.media.tumblr.com/bab6861f324927aef896c2143d316202/b791452cf6df01f1-2e/s540x810/672934c102cec24be5063908fde0aba1d4282e55.gif"  />
 </div>
 
