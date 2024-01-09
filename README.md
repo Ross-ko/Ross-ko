@@ -6,6 +6,14 @@
 
 ###
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ross-ko&show_icons=true&locale=en&layout=compact" alt="ross-ko" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ross-ko&show_icons=true&locale=en" alt="ross-ko" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ross-ko&" alt="ross-ko" /></p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
