@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a future software engineer 💻 from Bulgaria 🇧🇬 currently studying JS at Software University in Sofia.</p>
+<p align="left">I'm from Bulgaria 🇧🇬 and currently studying JS at Software University in Sofia.</p>
 
 ###
 
