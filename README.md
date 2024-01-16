@@ -4,6 +4,9 @@
 
 <p align="left">I'm from Bulgaria 🇧🇬 and currently studying JS at Software University in Sofia.</p>
 
+![GitHub Snake Light](https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 ###
 
 <div align="left">
