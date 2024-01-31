@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm from Bulgaria 🇧🇬 and currently studying JS at Software University in Sofia.</p>
+<p align="left">I'm from Bulgaria and currently studying JS at Software University in Sofia.</p>
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/vassdeniss/vassdeniss/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
@@ -37,7 +37,3 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ross-ko" alt="ross-ko" /></a> </p>
 
 ###
-
-<div align="center">
-  <img height="150" src="https://64.media.tumblr.com/bab6861f324927aef896c2143d316202/b791452cf6df01f1-2e/s540x810/672934c102cec24be5063908fde0aba1d4282e55.gif"  />
-</div>
